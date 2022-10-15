@@ -3,7 +3,7 @@
 The task completed in this project
 * create a space distributional semantic representation using tf-idf.
 * create a dense distributional semantic representation using Word2Vec 
-* Use the better of these approaches to trained and evaluated neural network that can classify an input review to either a positive or a negative class
+* Use the better of these approaches to traine and evaluate neural network that can classify an input review to either a positive or a negative class
 
 
 ### Classification Implementation
